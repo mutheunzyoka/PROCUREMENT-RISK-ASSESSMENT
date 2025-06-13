@@ -1,5 +1,5 @@
 # PROCUREMENT-RISK-ASSESSMENT
-# PROCUREMENT-RISK-ASSESSMENT
+
 
 This repository contains a Jupyter Notebook focused on identifying potentially anomalous or high-risk transactions within government procurement data. Our work aligns with **UN Sustainable Development Goal 16: Peace, Justice, and Strong Institutions** – specifically by aiming to **promote peaceful and inclusive societies, provide access to justice, and build effective, accountable and inclusive institutions at all levels.** By analyzing procurement data, we seek to enhance transparency and accountability, thereby strengthening institutional integrity and reducing opportunities for corruption or inefficiency.
 
